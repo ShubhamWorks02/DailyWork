@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		51A96C28299C9DC000664A8B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 51B81B31299B6722004483EB /* Assets.xcassets */; };
-		51B81B29299B6721004483EB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51B81B28299B6721004483EB /* AppDelegate.swift */; };
-		51B81B2B299B6721004483EB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51B81B2A299B6721004483EB /* SceneDelegate.swift */; };
-		51B81B2D299B6721004483EB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51B81B2C299B6721004483EB /* ViewController.swift */; };
-		51B81B30299B6721004483EB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 51B81B2E299B6721004483EB /* Main.storyboard */; };
-		51B81B35299B6722004483EB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 51B81B33299B6722004483EB /* LaunchScreen.storyboard */; };
+		51A96C56299CA90F00664A8B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51A96C55299CA90F00664A8B /* AppDelegate.swift */; };
+		51A96C58299CA90F00664A8B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51A96C57299CA90F00664A8B /* SceneDelegate.swift */; };
+		51A96C5A299CA90F00664A8B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51A96C59299CA90F00664A8B /* ViewController.swift */; };
+		51A96C5D299CA90F00664A8B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 51A96C5B299CA90F00664A8B /* Main.storyboard */; };
+		51A96C5F299CA91000664A8B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 51A96C5E299CA91000664A8B /* Assets.xcassets */; };
+		51A96C62299CA91000664A8B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 51A96C60299CA91000664A8B /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		51B81B25299B6721004483EB /* SplashScreenShubham.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SplashScreenShubham.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		51B81B28299B6721004483EB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		51B81B2A299B6721004483EB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		51B81B2C299B6721004483EB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		51B81B2F299B6721004483EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		51B81B31299B6722004483EB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		51B81B34299B6722004483EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		51B81B36299B6722004483EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		51A96C52299CA90F00664A8B /* ControllerPriority.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ControllerPriority.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		51A96C55299CA90F00664A8B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		51A96C57299CA90F00664A8B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		51A96C59299CA90F00664A8B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		51A96C5C299CA90F00664A8B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		51A96C5E299CA91000664A8B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		51A96C61299CA91000664A8B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		51A96C63299CA91000664A8B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		51B81B22299B6721004483EB /* Frameworks */ = {
+		51A96C4F299CA90F00664A8B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,72 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		51B81B1C299B6721004483EB = {
+		51A96C49299CA90F00664A8B = {
 			isa = PBXGroup;
 			children = (
-				51B81B27299B6721004483EB /* SplashScreenShubham */,
-				51B81B26299B6721004483EB /* Products */,
+				51A96C54299CA90F00664A8B /* ControllerPriority */,
+				51A96C53299CA90F00664A8B /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		51B81B26299B6721004483EB /* Products */ = {
+		51A96C53299CA90F00664A8B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				51B81B25299B6721004483EB /* SplashScreenShubham.app */,
+				51A96C52299CA90F00664A8B /* ControllerPriority.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		51B81B27299B6721004483EB /* SplashScreenShubham */ = {
+		51A96C54299CA90F00664A8B /* ControllerPriority */ = {
 			isa = PBXGroup;
 			children = (
-				51B81B28299B6721004483EB /* AppDelegate.swift */,
-				51B81B2A299B6721004483EB /* SceneDelegate.swift */,
-				51B81B2C299B6721004483EB /* ViewController.swift */,
-				51B81B2E299B6721004483EB /* Main.storyboard */,
-				51B81B31299B6722004483EB /* Assets.xcassets */,
-				51B81B33299B6722004483EB /* LaunchScreen.storyboard */,
-				51B81B36299B6722004483EB /* Info.plist */,
+				51A96C55299CA90F00664A8B /* AppDelegate.swift */,
+				51A96C57299CA90F00664A8B /* SceneDelegate.swift */,
+				51A96C59299CA90F00664A8B /* ViewController.swift */,
+				51A96C5B299CA90F00664A8B /* Main.storyboard */,
+				51A96C5E299CA91000664A8B /* Assets.xcassets */,
+				51A96C60299CA91000664A8B /* LaunchScreen.storyboard */,
+				51A96C63299CA91000664A8B /* Info.plist */,
 			);
-			path = SplashScreenShubham;
+			path = ControllerPriority;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		51B81B24299B6721004483EB /* SplashScreenShubham */ = {
+		51A96C51299CA90F00664A8B /* ControllerPriority */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 51B81B39299B6722004483EB /* Build configuration list for PBXNativeTarget "SplashScreenShubham" */;
+			buildConfigurationList = 51A96C66299CA91000664A8B /* Build configuration list for PBXNativeTarget "ControllerPriority" */;
 			buildPhases = (
-				51B81B21299B6721004483EB /* Sources */,
-				51B81B22299B6721004483EB /* Frameworks */,
-				51B81B23299B6721004483EB /* Resources */,
+				51A96C4E299CA90F00664A8B /* Sources */,
+				51A96C4F299CA90F00664A8B /* Frameworks */,
+				51A96C50299CA90F00664A8B /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = SplashScreenShubham;
-			productName = SplashScreenShubham;
-			productReference = 51B81B25299B6721004483EB /* SplashScreenShubham.app */;
+			name = ControllerPriority;
+			productName = ControllerPriority;
+			productReference = 51A96C52299CA90F00664A8B /* ControllerPriority.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		51B81B1D299B6721004483EB /* Project object */ = {
+		51A96C4A299CA90F00664A8B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1420;
 				LastUpgradeCheck = 1420;
 				TargetAttributes = {
-					51B81B24299B6721004483EB = {
+					51A96C51299CA90F00664A8B = {
 						CreatedOnToolsVersion = 14.2;
 					};
 				};
 			};
-			buildConfigurationList = 51B81B20299B6721004483EB /* Build configuration list for PBXProject "SplashScreenShubham" */;
+			buildConfigurationList = 51A96C4D299CA90F00664A8B /* Build configuration list for PBXProject "ControllerPriority" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,55 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = 51B81B1C299B6721004483EB;
-			productRefGroup = 51B81B26299B6721004483EB /* Products */;
+			mainGroup = 51A96C49299CA90F00664A8B;
+			productRefGroup = 51A96C53299CA90F00664A8B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				51B81B24299B6721004483EB /* SplashScreenShubham */,
+				51A96C51299CA90F00664A8B /* ControllerPriority */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		51B81B23299B6721004483EB /* Resources */ = {
+		51A96C50299CA90F00664A8B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				51B81B35299B6722004483EB /* LaunchScreen.storyboard in Resources */,
-				51A96C28299C9DC000664A8B /* Assets.xcassets in Resources */,
-				51B81B30299B6721004483EB /* Main.storyboard in Resources */,
+				51A96C62299CA91000664A8B /* LaunchScreen.storyboard in Resources */,
+				51A96C5F299CA91000664A8B /* Assets.xcassets in Resources */,
+				51A96C5D299CA90F00664A8B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		51B81B21299B6721004483EB /* Sources */ = {
+		51A96C4E299CA90F00664A8B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				51B81B2D299B6721004483EB /* ViewController.swift in Sources */,
-				51B81B29299B6721004483EB /* AppDelegate.swift in Sources */,
-				51B81B2B299B6721004483EB /* SceneDelegate.swift in Sources */,
+				51A96C5A299CA90F00664A8B /* ViewController.swift in Sources */,
+				51A96C56299CA90F00664A8B /* AppDelegate.swift in Sources */,
+				51A96C58299CA90F00664A8B /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		51B81B2E299B6721004483EB /* Main.storyboard */ = {
+		51A96C5B299CA90F00664A8B /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				51B81B2F299B6721004483EB /* Base */,
+				51A96C5C299CA90F00664A8B /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		51B81B33299B6722004483EB /* LaunchScreen.storyboard */ = {
+		51A96C60299CA91000664A8B /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				51B81B34299B6722004483EB /* Base */,
+				51A96C61299CA91000664A8B /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		51B81B37299B6722004483EB /* Debug */ = {
+		51A96C64299CA91000664A8B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -226,7 +226,7 @@
 			};
 			name = Debug;
 		};
-		51B81B38299B6722004483EB /* Release */ = {
+		51A96C65299CA91000664A8B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -280,21 +280,18 @@
 			};
 			name = Release;
 		};
-		51B81B3A299B6722004483EB /* Debug */ = {
+		51A96C67299CA91000664A8B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				"ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME[sdk=*]" = Light;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = SplashScreenShubham/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = SplashScreenShubham;
+				INFOPLIST_FILE = ControllerPriority/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UIStatusBarStyle = UIStatusBarStyleDefault;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
@@ -303,7 +300,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.simform.SplashScreenShubham;
+				PRODUCT_BUNDLE_IDENTIFIER = com.simform.ControllerPriority;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -314,7 +311,7 @@
 			};
 			name = Debug;
 		};
-		51B81B3B299B6722004483EB /* Release */ = {
+		51A96C68299CA91000664A8B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -322,12 +319,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = SplashScreenShubham/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = SplashScreenShubham;
+				INFOPLIST_FILE = ControllerPriority/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UIStatusBarStyle = UIStatusBarStyleDefault;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
@@ -336,7 +331,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.simform.SplashScreenShubham;
+				PRODUCT_BUNDLE_IDENTIFIER = com.simform.ControllerPriority;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -350,25 +345,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		51B81B20299B6721004483EB /* Build configuration list for PBXProject "SplashScreenShubham" */ = {
+		51A96C4D299CA90F00664A8B /* Build configuration list for PBXProject "ControllerPriority" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				51B81B37299B6722004483EB /* Debug */,
-				51B81B38299B6722004483EB /* Release */,
+				51A96C64299CA91000664A8B /* Debug */,
+				51A96C65299CA91000664A8B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		51B81B39299B6722004483EB /* Build configuration list for PBXNativeTarget "SplashScreenShubham" */ = {
+		51A96C66299CA91000664A8B /* Build configuration list for PBXNativeTarget "ControllerPriority" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				51B81B3A299B6722004483EB /* Debug */,
-				51B81B3B299B6722004483EB /* Release */,
+				51A96C67299CA91000664A8B /* Debug */,
+				51A96C68299CA91000664A8B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 51B81B1D299B6721004483EB /* Project object */;
+	rootObject = 51A96C4A299CA90F00664A8B /* Project object */;
 }
